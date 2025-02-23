@@ -19,8 +19,3 @@ This project is built on a minimal React + Vite setup that supports:
 
 - Hot Module Replacement (HMR)
 - ESLint rules for a clean codebase
-
-### Official Vite Plugins
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md): Uses [Babel](https://babeljs.io/) for Fast Refresh.
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc): Uses [SWC](https
